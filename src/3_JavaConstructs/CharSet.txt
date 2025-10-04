@@ -1,0 +1,18 @@
+
+java has 16-bit charset( 2 power 16 = 65536)
+UNICODE charset
+Index: 0 to 65535
+
+ASCII - American Standard Code for Information Interchange
+7 bit code (2 power 7 = 128)
+Index: 0 to 127
+
+A-Z, a-z(52), 0-9(10)
+special symbols/ characters
+printable(32)
+non-printable(34)
+
+65-A
+90-Z
+
+ASCII is included and preserved in UNICODE
