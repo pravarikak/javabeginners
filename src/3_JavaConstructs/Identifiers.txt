@@ -1,0 +1,46 @@
+
+Identifers: named words of program
+variables
+constants
+keywords
+datatypes
+Names of classes, interfaces, methods, packages, literal etc
+
+The general rules of identifers
+*******
+Names can contains letters, digits, underscores and dollar sign
+Names must begin with letters,$ and _ but not with the digit
+Names cannot contain white spaces
+Names are case senstitive("age" and "Age" are not same)
+Reserved/keywords cannot be used as names of variables
+
+In main method
+public - keyword
+class- keyword
+static - keyword
+void  - keyword
+main - name of the method
+String - name of class( present in java.lang package)
+args - name of the variable for array of strings
+System - name of the class present in java.lang method
+out - name of the variable( static variable)
+println- name of the method - printStream
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

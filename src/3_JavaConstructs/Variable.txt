@@ -1,0 +1,47 @@
+Variable - hold a dataitem of some type
+
+String[] args// args is variable which stores data of type String array
+
+int x;//x stores the data of type integer
+
+double weight;//weight is the variable which stores the data of type double
+
+Variables are not present without datatype
+******* So java is strongly typed language
+
+Three things to learn with variables:
+
+1)Variable declartion
+In variable declaration we should provide datatype and variable name
+int age;
+double salary;
+String name;
+
+
+2)Variable Intialization 
+In declaration if we are providing the value then it is variable initialization
+int age = 21;
+double salary = 21.300;
+String name = "java";
+
+
+3)Variable Assignment
+If we assign some value after declaration then it is assignment, in assignment it we will not declared again
+
+age=22;
+salary = 21.30;
+name ="prav";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
