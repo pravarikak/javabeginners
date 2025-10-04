@@ -1,0 +1,3 @@
+Arguments specified after the name of the program in the command line, and or passed on to your program during program execution
+
+Example java Name yourname
