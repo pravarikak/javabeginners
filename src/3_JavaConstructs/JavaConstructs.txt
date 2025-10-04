@@ -1,0 +1,33 @@
+Any programming language is learning like a normal language
+
+Normal Language                       Programming Language
+
+English, Hindi                         C, C++, Java
+Alphabets(A-Z,a-z,0-9)                 charset(A-Z, a-z,0-9, special symbols)
+
+words                                  Identifiers(named words)
+apple,bat,cat                          keywords, variables, constants, datatypes, etc
+
+grammar(rules/reg)                     operator and expressions
+									   sum=a+b;
+									   
+Sentence 							   program - 	set of statements
+(apple is a fruit)
+
+paragraph							   Decision making
+
+
+Basic Constructs of java
+1) Charset
+2) Identifiers
+	Variables- x=10, changes its value in program
+	Constants - final double pi=3.14
+	datatypes - 8 different data types
+	keywords - 53 keywords
+	names- names of classes, methods
+3) Operators - precedence of operators
+4) Control Statements
+Selection Statements - if switch
+Looping Statements - while, do-while, for
+Jumping Statements - break, continue and return
+
