@@ -1,0 +1,105 @@
+Operators: + - / % (Aritmetic operators)
+>,<,<=,>=,==,!= 
+&,&&,|,||
+
+
+Operator is a special symbol that tell compier to perform task on operands(data)
+
+operand: operate on operands => c=a+b;
+a, b c are called operands
+
+Operator types are:
+
+unary: ++,--,!, &, |, ~  ---operators on single operands x++, y--
+binary: +, *, <, >, = ---- will work with two operands c = a+b, d =a-b
+ternary:?: ----- x=a>b?a:b;
+
+properties:
+precedence/priority:
+normally bodmas
+(), [] - highest precedence c=(a+b)*c
+*,/,% -multiplicative operators
++,- - additive(equal)
+
+associativity:
+two kinds of associativity
+Left to right associativity- almost all -operators
+right to left associativity
+
+
+Arithmetic operators:
+*,/,% - multiplicative operators
+High precdence and left to right associavity
+
++,- - additive operators
+
+Low precedence and equal
+L-R associativity
+
+10/3 =3
+10%3 =1
+
+/,% - ****** be careful - it may lead to system crash 
+
+
+Relational Operators:
+
+binary operators
+relational - >,<,>=,<=
+applicable on only primitive except on boolean
+not applicable on reference
+equality ==, !=
+applicable on only primitive except on boolean
+applicable on reference
+
+
+
+Assignment operator:
+= - right to left associative
+x=10; 1o is assigned to x
+
+a=a+10; a+=10;
+
+a=a*b; a=*10;
+
+Increment and Decrement operator:
+++ = +1
+-- =-1
+
+a=20;
+a--; 19 post decrement
+
+a=10;
+a++; post increment
+
+++a; pre increment
+
+--a; pre decrement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
